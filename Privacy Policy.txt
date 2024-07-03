@@ -1,0 +1,45 @@
+Privacy Policy
+
+1. Introduction
+
+This Privacy Policy describes how Athkar bot ("we", "us", or "our") collects, uses, and discloses your information when you use our Discord bot.
+
+2. Information We Collect
+
+We may collect the following information:
+
+Discord user ID
+Discord username
+Messages and interactions with the bot
+3. How We Use Your Information
+
+We use the information we collect to:
+
+Operate and maintain the bot
+Improve user experience
+Respond to user inquiries and support requests
+4. Information Sharing and Disclosure
+
+We do not share your personal information with third parties except as necessary to operate the bot or comply with legal obligations.
+
+5. Data Security
+
+We implement appropriate security measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+6. Data Retention
+
+We retain your information for as long as necessary to provide our services and fulfill the purposes described in this Privacy Policy.
+
+7. Your Rights
+
+You have the right to:
+
+Access the information we hold about you
+Request the correction or deletion of your information
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our bot or through Discord. Your continued use of the bot after such changes constitutes your acceptance of the new Privacy Policy.
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at discord.gg/flix.

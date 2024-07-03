@@ -1,0 +1,32 @@
+Terms of Service
+
+1. Introduction
+
+Welcome to Athkar bot! These Terms of Service govern your use of our Discord bot and services. By using our bot, you agree to these terms. If you do not agree to these terms, do not use our bot.
+
+2. Use of the Bot
+
+You must follow all instructions provided by the bot and adhere to Discord's terms of service and community guidelines. You are responsible for your interactions with other users of the bot.
+
+3. Prohibited Activities
+
+You agree not to:
+
+Use the bot for any illegal or unauthorized purpose.
+Interfere with the operation of the bot or servers hosting the bot.
+Use the bot to spam, harass, or harm other users.
+4. Termination
+
+We reserve the right to terminate or suspend your access to the bot at any time, with or without notice, for any reason, including violation of these terms.
+
+5. Limitation of Liability
+
+We are not liable for any damages or losses resulting from your use of the bot. The bot is provided "as is" without warranties of any kind.
+
+6. Changes to the Terms
+
+We may update these terms from time to time. We will notify you of any changes by posting the new terms on our bot or through Discord. Your continued use of the bot after such changes constitutes your acceptance of the new terms.
+
+7. Contact Us
+
+If you have any questions about these Terms of Service, please contact us at discord.gg/flix.
